@@ -1,0 +1,5 @@
+{
+  "url": "https://cqa2.sadlierconnect.com//@review1303",
+  "browser": "chrome",
+  "button": "//span[normalize-space()='Log In']"
+}

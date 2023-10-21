@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Regression Test Manage Class in SC Domains">
+    <test name="Manage Parent SC - Chrome">
+        <parameter name="BROWSER" value="chrome"/>
+        <classes>
+            <class name="selenium.com.projects.sadlierconnect.testcases.ManageParentTest"/>
+        </classes>
+    </test>
+</suite>

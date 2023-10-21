@@ -1,0 +1,3 @@
+Action (A/U) (Required),Unique User ID (Optional),Username (Required),Password (Required),First Name (Required),Middle Name (Optional),Last Name (Required),Grade (Optional),Status Active/Inactive (Optional),School PID (Optional - District Only)
+A,,S005,123456,Student,,005,5,Active,
+A,, ,123456,Student,,005,5,Active,

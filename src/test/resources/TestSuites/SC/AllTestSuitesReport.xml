@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Regression Test Report">
+        <parameter name="BROWSER" value="chrome"/>
+        <suite-files>
+            <suite-file path="ActivityReportTestSC.xml"/>
+            <suite-file path="ClassAssessmentReportTestSC.xml"/>
+            <suite-file path="ClassProficiencyReportTestSC.xml"/>
+            <suite-file path="ScoreReportTestSC.xml"/>
+            <suite-file path="TrackingReportTestSC.xml"/>
+            <suite-file path="TrendReportTestSC.xml"/>
+        </suite-files>
+</suite>
